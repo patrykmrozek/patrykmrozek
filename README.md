@@ -9,9 +9,9 @@
 ## 🎯 Featured Projects
 
 <div align="center">
-
-[![MazeCaster](https://github-readme-stats.vercel.app/api/pin/?username=patrykmrozek&repo=mazecaster&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/patrykmrozek/mazecaster)
-[![Physics Engine](https://github-readme-stats.vercel.app/api/pin/?username=patrykmrozek&repo=FysicsEngine&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/patrykmrozek/FysicsEngine)
+  
+[![MazeCaster](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patrykmrozek&repo=mazecaster&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/patrykmrozek/mazecaster)
+   [![Physics Engine](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patrykmrozek&repo=FysicsEngine&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/patrykmrozek/FysicsEngine)
 
 </div>
 
@@ -24,6 +24,7 @@
 
 </div>
 
+<!--
 
 ## 📊 Statistics
 
@@ -37,6 +38,7 @@
 
 </div>
 
+-->
 ---
 
 <div align="center">
