@@ -25,7 +25,6 @@
 </div>
 
 
-<!--
 ## 📊 Statistics
 
 <div align="center">
@@ -38,7 +37,6 @@
 
 </div>
 
---->
 ---
 
 <div align="center">
